@@ -29,8 +29,7 @@
 
   import { ori_items } from "./wordlist";
 
-  let items = [];
-  items = ori_items;
+  let items = ori_items;
 
   let knows = [
     { word: "apple", mean: "🍎 사과", example: "Apple is an apple." },
